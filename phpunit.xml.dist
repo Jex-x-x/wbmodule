@@ -1,0 +1,9 @@
+<!-- Путь до bootstrap файла -->
+<phpunit bootstrap="tests/bootstrap.php">
+    <testsuites>
+        <testsuite name="unit">
+            <!-- Путь до директории с unit-тестами -->
+            <directory>tests/unit/</directory>
+        </testsuite>
+    </testsuites>
+</phpunit>
