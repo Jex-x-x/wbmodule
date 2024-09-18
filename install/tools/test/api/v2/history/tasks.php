@@ -1,0 +1,2 @@
+<?php
+echo '{"data":{"uploadID":1001,"status":3,"uploadDate":"2022-08-21T22:00:13+02:00","activationDate":"2022-08-21T22:00:13+02:00","overAllGoodsNumber":0,"successGoodsNumber":0},"error":false,"errorText":""}';

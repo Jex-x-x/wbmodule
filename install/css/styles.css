@@ -1,0 +1,8 @@
+#global_menu_wbs24_head .adm-main-menu-item-icon {
+    height:48px;
+    background:rgba(0, 0, 0, 0) url("../../images/wbs24.wbapi/global.png") no-repeat scroll 16px 7px;
+    opacity:1;
+}
+#global_menu_wbs24_head.adm-main-menu-item-active .adm-main-menu-item-icon {
+    background:rgba(0, 0, 0, 0) url("../../images/wbs24.wbapi/global_active.png") no-repeat scroll 16px 7px;
+}
